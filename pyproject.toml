@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mindpy"
-version = "0.1.0"
+version = "0.1.1"
 description = "A Python AI framework for controlling Minecraft bots"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -79,10 +79,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/mindpy/mindpy"
+Homepage = "https://github.com/AnujaGajaweera/MindPy"
 Documentation = "https://mindpy.readthedocs.io"
-Repository = "https://github.com/mindpy/mindpy"
-Issues = "https://github.com/mindpy/mindpy/issues"
+Repository = "https://github.com/AnujaGajaweera/MindPy"
+Issues = "https://github.com/AnujaGajaweera/MindPy/issues"
 
 [project.scripts]
 mindpy = "mindpy.cli.main:cli"

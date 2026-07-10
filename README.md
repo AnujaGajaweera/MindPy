@@ -88,11 +88,11 @@ Comprehensive documentation is available at [https://mindpy.readthedocs.io](http
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](https://github.com/AnujaGajaweera/MindPy/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](https://github.com/AnujaGajaweera/MindPy/blob/main/LICENSE) for details.
 
 ## Acknowledgments
 
