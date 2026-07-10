@@ -41,7 +41,7 @@ pip install mindpy
 For development:
 
 ```bash
-git clone https://github.com/mindpy/mindpy.git
+git clone https://github.com/AnujaGajaweera/MindPy.git
 cd mindpy
 pip install -e ".[dev,llm,docs]"
 ```
